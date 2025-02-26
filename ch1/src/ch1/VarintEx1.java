@@ -33,6 +33,6 @@ public class VarintEx1{
     // %b : boolean, %d : 정수, %f : 실수, %s : 문자열, %c : 문자
     System.out.printf("나이 : %d, 최고속도 : %d, max : %d\n",age,maxSpeed,max);
 
- 
+    
     }
 }
